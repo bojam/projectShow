@@ -1,0 +1,10 @@
+body{background:#003547;color:#fff;font-family:"Microsoft YaHei"}
+img{border:none}
+a{color:#fff;text-decoration:none}
+a:hover{color:#fff;}
+.myMetro{position:relative;overflow:hidden;zoom:1;margin:0 auto;}
+.MBox{float:left;}
+.widgetBox{position:relative;overflow:hidden;width:200px;height:160px;font-size:20px}
+.MBox a{display:block;outline:none;text-decoration:none;}
+.innerBox{position: absolute;top:40%;text-align:center;font-weight:bold;margin:0 auto;}
+.logo{top:0;width:400px;height:160px;margin:0 auto;line-height:160px;font-size:28px;text-align:center;font-weight:bold;font-size:56px}
